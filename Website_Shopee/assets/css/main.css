@@ -1195,3 +1195,10 @@ i.home-product-item__like-icon-fill {
     position: relative;
     top: 4px;
 }
+
+/* Home product list */
+.home-product--pagination {
+    margin: 48px 0 32px 0;
+}
+
+/* Footer */
